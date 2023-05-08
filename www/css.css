@@ -1,0 +1,56 @@
+
+body{
+  background-color: whitesmoke;
+}
+
+.page-title{
+  margin-left: 50px;
+  margin-top: 25px;
+  font-family: "gill sans";
+  color: #1f77b4; 
+  display: inline-block; 
+}
+
+.data-box{
+  background: white; 
+  border-width: thin; 
+  border-radius: 15px; 
+  border-color: darkgrey;
+  box-shadow: 2px 2px 8px 4px lightgrey
+}
+
+.box-title{
+  margin-top: -5px; 
+  margin-bottom: -15px;
+  color: #1f77b4; 
+  font-family: Tahoma
+}
+
+.title-hr{
+  margin-bottom: 0px;
+  border-top: 1px solid lightgrey;
+}
+
+.box-data{
+  margin-bottom: -10px; 
+  color: grey; 
+  font-family: 'Trebuchet MS'; 
+  font-size: 20px; 
+  font-weight: bold; 
+  display: inline-block
+}
+
+.box-change-data{
+  margin-bottom: -10px; 
+  margin-top:-10px;
+  color: green; 
+  font-family: 'Trebuchet MS'; 
+  font-size: 15px; 
+  font-style: oblique; 
+  font-weight: bold; 
+  display: inline-block; 
+}
+
+
+
+
